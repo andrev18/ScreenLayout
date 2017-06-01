@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScreenLayout">
+        <attr name="errorViewLayout" format="reference"/>
+        <attr name="progressViewLayout" format="reference"/>
+    </declare-styleable>
+</resources>
